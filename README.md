@@ -1,36 +1,28 @@
-# Mcp
+# Model Context Protocol Practice
 
 Python experiments with Model Context Protocol concepts and tooling.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+MCP is useful for connecting AI assistants to external tools and data. This repository explores those concepts through a small Python workspace.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- MCP project structure
+- Tool/context integration ideas
+- Python-based AI tooling
 
-## Tech Stack
+## Stack
 
-- Primary language: Python
-- Topics: ai-tools, mcp, python
-
-## Repository Structure
-
-- Top-level folders: expense-tracker-mcp
-- Top-level files: No top-level files detected.
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Python
+- MCP
+- AI tools
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Document the expense-tracker example
+- Add tool/API flow diagram
+- Add run instructions
 
 ## Author
 
